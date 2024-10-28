@@ -1,7 +1,9 @@
+import Add from "./components/Add";
+
 const App = () => {
   return (
     <>
-      <div>App componenet</div>
+      <Add/>
     </>
   );
 };
